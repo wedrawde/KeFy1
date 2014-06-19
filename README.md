@@ -1,5 +1,7 @@
-KeFy1
-=====
+TEMPLATE
+========
+
+# Kurs
 
 1. Tidtabell
  Period
