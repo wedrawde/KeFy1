@@ -2,6 +2,7 @@ KeFy1
 =====
 
 1. Tidtabell
+ Period
 2. Deltagare
 3. Kursplan
 4. Material
